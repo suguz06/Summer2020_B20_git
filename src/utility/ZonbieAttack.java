@@ -33,3 +33,4 @@ public class ZonbieAttack {
         System.out.println("---- EXTINCT ----");
     }
 }
+git init
