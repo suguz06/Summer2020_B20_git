@@ -5,6 +5,8 @@ import java.util.Scanner;
 
 public class ZonbieAttack {
 
+
+
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int[] inhabitants = new int[8];
@@ -32,5 +34,6 @@ public class ZonbieAttack {
         } while (!Arrays.equals(inhabitants,num1));
         System.out.println("---- EXTINCT ----");
     }
+
 }
-git init
+
